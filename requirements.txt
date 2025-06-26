@@ -3,4 +3,5 @@ pandas
 openai
 pytest
 python-dotenv
+tabulate
 # sqlite3 is included in the Python standard library 
